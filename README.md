@@ -1,4 +1,4 @@
-# Survey System Refactoring and Improvement
+# DynaSurvey: Efficient Data Processing
 
 This repository contains the refactored and improved version of a survey system developed as part of the SENG 265 course at the University of Victoria. The project focuses on enhancing the efficiency, modularity, and maintainability of a survey system initially developed in Assignment 1.
 
